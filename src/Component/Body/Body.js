@@ -10,6 +10,9 @@ const Body = () => {
             .then(data => setProducts(data))
     }, [])
 
+    const handleAddToCart = (product) => {
+        console.log(product)
+    }
 
     return (
         <div className='flex '>
@@ -19,6 +22,7 @@ const Body = () => {
                     products.map(product => <Product
                         key={product.id}
                         product={product}
+                        handleAddToCart={handleAddToCart}
                     ></Product>)
                 }
 
@@ -30,7 +34,7 @@ const Body = () => {
                             <h1>Mutawchid Nahian</h1>
                             <p>Dhaka, Bangladesh</p>
                         </div>
-                        <div className='flex justify-evenly mt-4 bg-slate-300 '>
+                        <div className='p-4 flex justify-evenly mt-4 bg-slate-300 '>
                             <p>weight-70</p>
                             <p>height-6.2</p>
                             <p>age-24</p>
