@@ -7,6 +7,7 @@ function App() {
     <div className="App">
 
       <Header></Header>
+      <h1 className='text-2xl p-3'>Select today’s exercise</h1>
       <Body></Body>
     </div>
   );

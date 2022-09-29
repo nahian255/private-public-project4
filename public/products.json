@@ -13,7 +13,7 @@
     "img": "https://5.imimg.com/data5/DX/QP/MY-28926652/seated-chest-press-machine-500x500.jpg",
     "details": "Chest Press Machine, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
     "age": "20-25",
-    "time": "40s"
+    "time": "58s"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "img": "https://media.istockphoto.com/photos/home-fitness-bench-with-barbell-picture-id1309046408?b=1&k=20&m=1309046408&s=170667a&w=0&h=KlawXqiGcjq8jOJOvC3RfiZNpySo6R6ErEht0BOVGx0=",
     "details": "Bench Press, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
     "age": "20-25",
-    "time": "40s"
+    "time": "25s"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcSwoS2rCfm-Qb8Py_qZXENsubOvgqXkS0FRoz_yTec1AffgwuI7r5EHD6Uh46-2We5I&usqp=CAU",
     "details": "Seated Dip Machine, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
     "age": "20-25",
-    "time": "40s"
+    "time": "30s"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "img": "https://cdn.kingsbox.com/assets/media/products/gym-essentials/benches/adjustable-bench/MA-010-0051--Kingsbox-adjustable-bench--0.jpg?format=webp",
     "details": "Adjustable Bench, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
     "age": "20-25",
-    "time": "40s"
+    "time": "20s"
   },
   {
     "id": 6,
@@ -45,30 +45,6 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNeHsbIxG4GJON-YSwl3oLnPN7LbzINJe5nBOo5KltoxxVCeWcMTl5eY3yr44OdvZADo&usqp=CAU",
     "details": "Decline Bench Press., or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
     "age": "20-25",
-    "time": "40s"
-  },
-  {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "ULTRABOOST 22 SHOES",
-    "img": "",
-    "details": "Dumbbells, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
-    "age": "20-25",
-    "time": "40s"
-  },
-  {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "ULTRABOOST 22 SHOES",
-    "img": "",
-    "details": "Dumbbells, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
-    "age": "20-25",
-    "time": "40s"
-  },
-  {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "ULTRABOOST 22 SHOES",
-    "img": "",
-    "details": "Dumbbells, or free weights, are a type of exercise equipment that do not require the use of exercise machines.",
-    "age": "20-25",
-    "time": "40s"
+    "time": "50s"
   }
 ]
