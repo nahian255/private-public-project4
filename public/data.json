@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "6334712d5d412c01907aa689",
+        "index": 0,
+        "guid": "19045d45-94c9-4088-a362-a76e87ea7987",
+        "isActive": false,
+        "balance": "$2,704.91",
+        "picture": "http://placehold.it/32x32",
+        "age": 27,
+        "eyeColor": "brown",
+        "name": "Kerri George",
+        "gender": "female"
+    },
+    {
+        "_id": "6334712d11059b53902c19c3",
+        "index": 1,
+        "guid": "988cadd2-1645-4f02-8bca-fae15c1a5ed6",
+        "isActive": true,
+        "balance": "$2,372.30",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "eyeColor": "green",
+        "name": "Witt Faulkner",
+        "gender": "male"
+    },
+    {
+        "_id": "6334712d8af11538ed556941",
+        "index": 2,
+        "guid": "ea0d1734-d136-4ef6-a8ae-4337298bbed3",
+        "isActive": false,
+        "balance": "$2,408.95",
+        "picture": "http://placehold.it/32x32",
+        "age": 33,
+        "eyeColor": "brown",
+        "name": "Dyer Eaton",
+        "gender": "male"
+    },
+    {
+        "_id": "6334712dc7f88f30f678230b",
+        "index": 3,
+        "guid": "a37782f6-df9e-4c6f-91ac-2efbe664da19",
+        "isActive": true,
+        "balance": "$3,801.26",
+        "picture": "http://placehold.it/32x32",
+        "age": 38,
+        "eyeColor": "green",
+        "name": "Parsons Clements",
+        "gender": "male"
+    },
+    {
+        "_id": "6334712dd98a0b3b1e3840de",
+        "index": 4,
+        "guid": "398ebb4e-f005-43c3-aff2-ac3b23418607",
+        "isActive": true,
+        "balance": "$2,006.86",
+        "picture": "http://placehold.it/32x32",
+        "age": 21,
+        "eyeColor": "green",
+        "name": "Mollie Macias",
+        "gender": "female"
+    },
+    {
+        "_id": "6334712daa6c16c46142934f",
+        "index": 5,
+        "guid": "9b52362b-a8aa-435a-a493-f2c3810c533e",
+        "isActive": false,
+        "balance": "$3,797.24",
+        "picture": "http://placehold.it/32x32",
+        "age": 24,
+        "eyeColor": "blue",
+        "name": "Dodson Oneill",
+        "gender": "male"
+    },
+    {
+        "_id": "6334712d2e0e55b375b6cb2c",
+        "index": 6,
+        "guid": "17d4e573-b85d-48b9-adbc-63c5966ab1f8",
+        "isActive": true,
+        "balance": "$3,453.09",
+        "picture": "http://placehold.it/32x32",
+        "age": 24,
+        "eyeColor": "green",
+        "name": "Elizabeth Hernandez",
+        "gender": "female"
+    }
+]
