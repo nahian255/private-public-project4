@@ -24,7 +24,19 @@ const Body = () => {
 
             </div>
             <div className=' w-1/3'>
-                <h2>Mutawchid Nahian</h2>
+                <section>
+                    <div className='bg-pink-100 mx-2'>
+                        <div>
+                            <h1>Mutawchid Nahian</h1>
+                            <p>Dhaka, Bangladesh</p>
+                        </div>
+                        <div className='flex justify-evenly mt-4 bg-slate-300 '>
+                            <p>weight-70</p>
+                            <p>height-6.2</p>
+                            <p>age-24</p>
+                        </div>
+                    </div>
+                </section>
             </div>
         </div>
     );
